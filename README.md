@@ -80,3 +80,6 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 * [SIMD Array](https://github.com/jackmott/SIMDArray)
 * [markdig](https://github.com/lunet-io/markdig)
 * [Wire](https://github.com/AsynkronIT/Wire)
+
+## Tools
+* [CodeTrack](http://www.getcodetrack.com/) - A free .NET performance profiler and execution analyzer
